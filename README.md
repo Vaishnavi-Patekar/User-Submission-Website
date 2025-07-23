@@ -12,7 +12,8 @@ This is a simple PHP + MySQL-based web application where users can submit their 
 
 ## 🛠 Technologies Used
 
-- HTML/CSS
+- HTML
+- CSS
 - PHP
 - MySQL
 - phpMyAdmin (for managing the database)
@@ -58,5 +59,4 @@ Submitted users will be displayed below.
 
 🧪 Sample Screenshot
 
-![User Submission Form](screenshot.png)
 <img src="screenshot.png" alt="User Submission Form" width="600"/>
