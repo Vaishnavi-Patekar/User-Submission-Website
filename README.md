@@ -59,4 +59,4 @@ Submitted users will be displayed below.
 
 🧪 Sample Screenshot
 
-<img src="screenshot.png" alt="User Submission Form" width="600"/>
+<img src="Screenshot.png" alt="User Submission Form" width="600"/>
